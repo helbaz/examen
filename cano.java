@@ -1,6 +1,6 @@
 package net.davidvalles.batalla;
 
-
+//hola
 /**
  * Defineix un objecte que es mou per pantalla.
  *
