@@ -65,6 +65,7 @@ public abstract class CosaMobil extends Cosa {
      */
     public final void setDireccioIVelocitat(final Direccio dir, final int vel) {
         direccio = dir;
+	int examen = aprovat;
         velocitat = vel;
     }
 
